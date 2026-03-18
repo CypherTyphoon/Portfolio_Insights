@@ -1,0 +1,17 @@
+=== DATENQUALITÄTS-ANALYSE ===
+
+--- Datentypen der Spalten ---
+Rank              int64
+Name             object
+Platform         object
+Year              int64
+Genre            object
+Publisher        object
+NA_Sales        float64
+EU_Sales        float64
+JP_Sales        float64
+Other_Sales     float64
+Global_Sales    float64
+
+--- Fehlende Werte Analyse ---
+Keine fehlenden Werte gefunden. Daten sind vollständig!

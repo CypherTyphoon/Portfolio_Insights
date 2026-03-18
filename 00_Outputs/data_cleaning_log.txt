@@ -1,0 +1,171 @@
+--- Bereinigungs-Log: Spalte 'Year' ---
+Anzahl fehlerhafter Einträge gefunden: 165
+
+                                                                   Name        Platform  Year
+159                                          Madden NFL TwoZeroZeroFour           PSTow     0
+325                                         FIFA Soccer TwoZeroZeroFour           PSTow     0
+406                                 wwe Smackdown vs Raw TwoZeroZeroSix           PSTow     0
+522                                                      Space Invaders  TowSixZeroZero     0
+537                                                           Rock Band   XThreeSixZero     0
+560                              Froggers Adventures Temple of the Frog             GBA     0
+1061                                               Triple Play NineNine              PS     0
+1150                                  LEGO Harry Potter Years FiveSeven             Wii     0
+1202                                                          Adventure  TowSixZeroZero     0
+1260                                                             Combat  TowSixZeroZero     0
+1308                                    NASCAR Thunder TwoZeroZeroThree           PSTow     0
+1558                                         Legacy of Kain Soul Reaver              PS     0
+1582                                               Donkey Kong Land III              GB     0
+1643                                                      AirSea Battle  TowSixZeroZero     0
+1644                                                       Suikoden III           PSTow     0
+1656                                                        Yakuza Four         PSThree     0
+1840                             The Lord of the Rings War in the North         PSThree     0
+1897                                      MLB SlugFest TwoZeroZeroThree           PSTow     0
+1921                                           Shaun White Snowboarding   XThreeSixZero     0
+2086                                                  WarioWare Twisted             GBA     0
+2199                                           Test Drive Unlimited Two   XThreeSixZero     0
+2267       The Chronicles of Narnia The Lion The Witch and The Wardrobe             GBA     0
+2363                                                 Monster Hunter Two           PSTow     0
+2375                                          Advance Wars Days of Ruin              DS     0
+2389                                     Metal Gear Solid Two Substance              XB     0
+2540                                             NASCAR Dirt to Daytona           PSTow     0
+2815                                                      Fishing Derby  TowSixZeroZero     0
+2981                                                             Karate  TowSixZeroZero     0
+3039                                                       Circus Atari  TowSixZeroZero     0
+3100                  The Chronicles of Riddick Escape from Butcher Bay              XB     0
+3135                                Maze Craze A Game of Cops n Robbers  TowSixZeroZero     0
+3137                                             Silent Hill Homecoming   XThreeSixZero     0
+3197                                                     Super Breakout  TowSixZeroZero     0
+3199                               Robert Ludlums The Bourne Conspiracy   XThreeSixZero     0
+3240                                                       NHL Slapshot             Wii     0
+3341                                                               TERA              PC     0
+3408                                       NFL GameDay TwoZeroZeroThree           PSTow     0
+3450                                     Harvest Moon Save the Homeland           PSTow     0
+3569                                                            Hangman  TowSixZeroZero     0
+3637                                                    Bejeweled Three              DS     0
+3654                             Cubix Robots for Everyone Clash n Bash             GBA     0
+3655                                                       Tropico Four   XThreeSixZero     0
+3730                       Dragon Ball Z Budokai Tenkaichi Two JP sales             Wii     0
+3935                                                   Final Fantasy XI           PSTow     0
+3940                                                        Singularity   XThreeSixZero     0
+3963                                                           Dragster  TowSixZeroZero     0
+3972                                   AllStar Baseball TwoZeroZeroFive           PSTow     0
+4039                              Star Wars Jedi Knight II Jedi Outcast              XB     0
+4057                                                       Slot Machine  TowSixZeroZero     0
+4108                         The Dukes of Hazzard II Daisy Dukes It Out              PS     0
+4116                                 Disgaea Three Absence of Detention             PSV     0
+4295                                             Haven Call of the King           PSTow     0
+4313                       Unreal Championship Two The Liandri Conflict              XB     0
+4390                  The Legend of Zelda The Minish Capweekly JP sales             GBA     0
+4397                                                  Indy FiveZeroZero  TowSixZeroZero     0
+4423                                                       Flag Capture  TowSixZeroZero     0
+4644                                              College Hoops TwoKSix           PSTow     0
+4727                                              Mega Man X Collection           PSTow     0
+4828                                            DanceDanceRevolution II             Wii     0
+4835                                            Tony Hawks Downhill Jam             Wii     0
+4854                                               Big Beach Sports Two             Wii     0
+4855                                                       Jet XTwoZero           PSTow     0
+4892                                              Tribes Aerial Assault           PSTow     0
+4997                                                       Move Fitness         PSThree     0
+5110                                      Yu Yu Hakusho Dark Tournament           PSTow     0
+5120                                                    Ghostbusters II  TowSixZeroZero     0
+5121                                                       Breakaway IV  TowSixZeroZero     0
+5146                      Valkyria Chronicles III Unrecorded Chronicles             PSP     0
+5152                                   WRC FIA World Rally Championship         PSThree     0
+5280                                                    Famista SixFour        NSixFour     0
+5468                                                        Pet Zombies         ThreeDS     0
+5496                                                   Star Trek Legacy   XThreeSixZero     0
+5563                                                        Trauma Team             Wii     0
+5591                                                        Backbreaker   XThreeSixZero     0
+5629                                          Twisted Metal Small Brawl              PS     0
+5634                                                Otomedius Excellent   XThreeSixZero     0
+5653                                                  NBA Starting Five           PSTow     0
+5741                                          James Camerons Dark Angel           PSTow     0
+5774                                               Sword of the Samurai           PSTow     0
+5889                                Alone in the Dark The New Nightmare              PS     0
+5937                                                        Vegas Party             Wii     0
+5995                                             Jurassic Park The Game   XThreeSixZero     0
+6028                                                           Home Run  TowSixZeroZero     0
+6113                                                     eJay Clubworld           PSTow     0
+6239                                                    Our House Party             Wii     0
+6395                                  Disneys Cinderella Magical Dreams             GBA     0
+6530                                         Nintendo Puzzle Collection              GC     0
+6618                                   Charm Girls Club My Fashion Mall              DS     0
+6668                                         Record of Agarest War Zero         PSThree     0
+6672   Super Robot Wars OG Saga Masou Kishin II  Revelation of Evil God             PSP     0
+6687                                       Saru Get You Million Monkeys           PSTow     0
+6721                                          The Daring Game for Girls              DS     0
+6821                                                     Happy Feet Two              DS     0
+7012                                                            GiFTPiA              GC     0
+7073                               Disneys Chicken Little Ace In Action             Wii     0
+7161                              Atsumare Power Pro Kun no DS Koushien              DS     0
+7206                                           My Healthy Cooking Coach              DS     0
+7327                                          Luminous Arc Two JP sales              DS     0
+7374                                                   Egg Monster Hero              DS     0
+7488                                                        Demon Chaos           PSTow     0
+7550                                        Action ManOperation Extreme              PS     0
+7572                                            Super Puzzle Fighter II             GBA     0
+7703                                   Charm Girls Club My Fashion Show              DS     0
+7739                                           Face Racers Photo Finish         ThreeDS     0
+7766                                            Zero Tsukihami no Kamen             Wii     0
+7796                                                         The Hidden         ThreeDS     0
+7995                    Mega Man Battle Network Operation Shooting Star              DS     0
+8021                                                     Smashing Drive              GC     0
+8110                                               Dream Trigger ThreeD         ThreeDS     0
+8124                                                            Tornado              DS     0
+8144                                           McFarlanes Evil Prophecy           PSTow     0
+8169                                      Drake of the NineNine Dragons              XB     0
+8180                                                  Port Royale Three         PSThree     0
+8248                              BuildABear Workshop Friendship Valley             Wii     0
+8250                                            Alex Rider Stormbreaker              DS     0
+8255                                                     Yoostar on MTV   XThreeSixZero     0
+8332                         Jewel Link Chronicles Mountains of Madness              DS     0
+8503                                               Chou Soujuu Mecha MG              DS     0
+8516                           Prinny Can I Really Be The Hero US sales             PSP     0
+8524                                     Combat Elite WWII Paratroopers           PSTow     0
+8617                                                Flips Twisted World             Wii     0
+8648                                        Mobile Ops The One Year War   XThreeSixZero     0
+8675                              Tom Clancys Rainbow Six Critical Hour              XB     0
+8767                                          Reader Rabbit Twond Grade             Wii     0
+8790                                           Mountain Bike Adrenaline           PSTow     0
+8796                                       Tour de France TwoZeroOneOne   XThreeSixZero     0
+8801                                                        Drill Dozer             GBA     0
+8886                                                    Battle vs Chess         PSThree     0
+9305                                               BLUE Legend of Water              PS     0
+9307                                           Luxor Pharaohs Challenge             Wii     0
+9447                                          Sega Rally TwoZeroZeroSix           PSTow     0
+9575                                                             Swords             Wii     0
+9581                                                HalfMinute Hero Two             PSP     0
+9582                                                  Clockwork Empires              PC     0
+9608                                                       Housekeeping              DS     0
+9656                                                         Sabre Wulf             GBA     0
+9742                                               Beyond the Labyrinth         ThreeDS     0
+9761                                                Bikkuriman Daijiten              DS     0
+9776                                Majesty Two The Fantasy Kingdom Sim   XThreeSixZero     0
+9823                                    Fullmetal Alchemist Brotherhood             PSP     0
+9942                               Samurai Spirits Tenkaichi Kenkakuden           PSTow     0
+10067                                                 Super Duper Sumos             GBA     0
+10176                                          Legacy of Ys Books I  II              DS     0
+10181                       The King of Fighters Maximum Impact  Maniax              XB     0
+10195                            Combat Wings The Great Battles of WWII             Wii     0
+10232                                                       Tube Slider              GC     0
+10248     Umineko no Naku Koro ni San Shinjitsu to Gensou no Yasoukyoku         PSThree     0
+10290                                        Wii de Asobu Metroid Prime             Wii     0
+10291                                              Payout Poker  Casino             PSP     0
+10432                                                             Saint             Wii     0
+10437                                                    Steal Princess              DS     0
+10642                           YuGiOh FiveDs Wheelie Breakers JP sales             Wii     0
+10746                        Writing and Speaking Beautiful Japanese DS              DS     0
+10779                                                      Virtua Quest           PSTow     0
+10814                               Shonen Jumps YuGiOh GX Card Almanac              DS     0
+10848                                 Football Manager TwoZeroZeroSeven   XThreeSixZero     0
+10895                                       Ferrari The Race Experience             Wii     0
+10943                                    Dinotopia The Sunstone Odyssey              GC     0
+10961                                                       Jet Impulse              DS     0
+10975                                                      Dream Dancer              DS     0
+11090                                       Aquaman Battle for Atlantis              XB     0
+11182                                   Homeworld Remastered Collection              PC     0
+11184                                                            Shorts              DS     0
+11220                                        Agarest Senki Reappearance         PSThree     0
+11309                                        Hakuouki Shinsengumi Kitan         PSThree     0
+
+Nach der Imputation verbleibende NaNs: 0
