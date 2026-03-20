@@ -1,0 +1,14 @@
+--- Daten-Lade-Bericht ---
+Datei: 01_Data_Sets\01_fitness_tracker.csv
+Dimensionen: 500 Zeilen, 5 Spalten
+-------------------------
+Erste 8 Zeilen der Daten:
+       ID  Workout Duration (mins)  Calories Burned  Step Count  Heart Rate
+0  FT0001                       69           356.18       11146          73
+1  FT0002                       79           717.97       16173         138
+2  FT0003                       85           229.37        1232          97
+3  FT0004                      118           944.68       13318         130
+4  FT0005                       56           811.48       15984          74
+5  FT0006                       63           419.75       10048          89
+6  FT0007                       97           485.66       19595         120
+7  FT0008                       29           437.87       16253         107
