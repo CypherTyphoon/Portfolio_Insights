@@ -1,0 +1,28 @@
+Schema Audit for AI_Jobs
+Rows: 1500 | Cols: 25
+------------------------------
+job_id                    object
+job_title                 object
+job_category              object
+experience_level          object
+years_of_experience        int64
+education_required        object
+annual_salary_usd        float64
+salary_min_usd             int64
+salary_max_usd             int64
+city                      object
+country                   object
+remote_work               object
+company_size              object
+industry                  object
+required_skills           object
+ai_salary_premium_pct    float64
+demand_score               int64
+demand_growth_yoy_pct    float64
+benefits_score_10        float64
+posting_year               int64
+posting_month              int64
+is_senior                  int64
+is_remote_friendly         int64
+is_llm_role                int64
+salary_tier               object

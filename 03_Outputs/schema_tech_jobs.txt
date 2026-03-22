@@ -1,0 +1,38 @@
+Schema Audit for Tech_Jobs
+Rows: 90000 | Cols: 35
+------------------------------
+id                           int64
+country                     object
+job_role                    object
+ai_specialization           object
+experience_level            object
+experience_years             int64
+salary_usd                   int64
+bonus_usd                    int64
+education_required          object
+industry                    object
+company_size                object
+interview_rounds             int64
+year                         int64
+work_mode                   object
+weekly_hours               float64
+company_rating             float64
+job_openings                 int64
+hiring_difficulty_score    float64
+layoff_risk                float64
+ai_adoption_score            int64
+company_funding_billion    float64
+economic_index             float64
+ai_maturity_years            int64
+offer_acceptance_rate      float64
+tax_rate_percent           float64
+vacation_days                int64
+skill_demand_score           int64
+automation_risk              int64
+job_security_score           int64
+career_growth_score          int64
+work_life_balance_score      int64
+promotion_speed              int64
+salary_percentile            int64
+cost_of_living_index       float64
+employee_satisfaction        int64

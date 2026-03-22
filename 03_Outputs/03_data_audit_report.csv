@@ -1,0 +1,9 @@
+,Dtype,Nulls,Null %,Uniques
+country,object,0,0.0,15
+salary_usd_ai,float64,1,6.67,14
+experience_years_ai,float64,1,6.67,14
+salary_usd_tech,float64,3,20.0,12
+experience_years_tech,float64,3,20.0,12
+population,float64,3,20.0,12
+area_km2,float64,3,20.0,12
+ai_premium_pct,float64,4,26.67,11

@@ -1,0 +1,11 @@
+AI_Jobs:
+['job_id', 'job_title', 'job_category', 'experience_level', 'years_of_experience', 'education_required', 'annual_salary_usd', 'salary_min_usd', 'salary_max_usd', 'city', 'country', 'remote_work', 'company_size', 'industry', 'required_skills', 'ai_salary_premium_pct', 'demand_score', 'demand_growth_yoy_pct', 'benefits_score_10', 'posting_year', 'posting_month', 'is_senior', 'is_remote_friendly', 'is_llm_role', 'salary_tier']
+
+Tech_Jobs:
+['id', 'country', 'job_role', 'ai_specialization', 'experience_level', 'experience_years', 'salary_usd', 'bonus_usd', 'education_required', 'industry', 'company_size', 'interview_rounds', 'year', 'work_mode', 'weekly_hours', 'company_rating', 'job_openings', 'hiring_difficulty_score', 'layoff_risk', 'ai_adoption_score', 'company_funding_billion', 'economic_index', 'ai_maturity_years', 'offer_acceptance_rate', 'tax_rate_percent', 'vacation_days', 'skill_demand_score', 'automation_risk', 'job_security_score', 'career_growth_score', 'work_life_balance_score', 'promotion_speed', 'salary_percentile', 'cost_of_living_index', 'employee_satisfaction']
+
+Cities:
+['Rank', 'City', 'Country', 'Population (Est.)', 'Area (sq km)']
+
+Join Potential AI-Tech: {'industry', 'education_required', 'company_size', 'experience_level', 'country'}
+Join Potential AI-Cities: set()

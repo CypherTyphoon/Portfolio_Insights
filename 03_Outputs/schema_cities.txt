@@ -1,0 +1,8 @@
+Schema Audit for Cities
+Rows: 100 | Cols: 5
+------------------------------
+Rank                  int64
+City                 object
+Country              object
+Population (Est.)    object
+Area (sq km)         object

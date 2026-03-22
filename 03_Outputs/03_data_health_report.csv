@@ -1,0 +1,4 @@
+Dataset,Rows,Columns,Missing_Values,Missing_Ratio_%,Memory_MB
+AI_Jobs,1500,25,0,0.0,1.26
+Cities,100,5,0,0.0,0.02
+Tech_Jobs,90000,35,0,0.0,57.69
