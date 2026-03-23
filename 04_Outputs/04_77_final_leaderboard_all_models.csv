@@ -1,0 +1,5 @@
+Model Type,Algorithm,R2_Score,RMSE
+Ensemble (Meta-Learner),Stacking Regressor,-0.0038974475760247262,445.10241462142426
+Single,Random Forest,-0.041801984765626576,453.42750972668654
+Ensemble (Simple),Voting Regressor,-0.06203084158427541,457.8084872338274
+Single,Gradient Boosting,-0.10998213134731216,468.0295446206195
