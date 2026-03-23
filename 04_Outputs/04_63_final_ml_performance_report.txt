@@ -1,0 +1,6 @@
+FINAL MODEL EVALUATION REPORT
+=============================
+Model: Random Forest Regressor (100 trees)
+R-Squared (R²): -0.0418
+RMSE (Avg Error): 453.43 USD
+Test Set Size: 360 samples

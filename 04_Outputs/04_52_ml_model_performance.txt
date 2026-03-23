@@ -1,0 +1,5 @@
+Random Forest Regressor Performance
+-----------------------------------
+Target Variable: total_spent
+RMSE: 453.43
+R2 Score: -0.0418

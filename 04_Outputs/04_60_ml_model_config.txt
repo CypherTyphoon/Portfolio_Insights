@@ -1,0 +1,4 @@
+Model Type: Random Forest Regressor
+Trees (n_estimators): 100
+Random State: 42
+Features used: daily_screen_time, social_media_hours, gaming_hours, work_study_hours, sleep_hours, notifications, app_opens, weekend_screen_time, age_online

@@ -1,0 +1,12 @@
+
+MODEL COMPARISON REPORT
+=======================
+Random Forest (Block 63):
+- R²: -0.0418
+- RMSE: 453.43
+
+Gradient Boosting (Current):
+- R²: -0.1100
+- RMSE: 468.03
+
+Winner: Random Forest

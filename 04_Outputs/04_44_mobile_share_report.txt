@@ -1,0 +1,8 @@
+Device Distribution:
+device_type
+Tablet     637
+Desktop    600
+Mobile     563
+Name: count, dtype: int64
+
+Share of transactions via Mobile: 31.28%

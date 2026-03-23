@@ -1,0 +1,4 @@
+Dataset,Columns,Col_Count
+Purchase,"['customer_id', 'age', 'gender', 'item', 'category', 'purchase_amount', 'location', 'size', 'color', 'season', 'review_rating', 'subscription_status', 'payment_method', 'shipping_type', 'discount_applied', 'promo_code_used', 'previous_purchases', 'preferred_payment_method', 'frequency']",19
+Online,"['customer_id', 'gender', 'age', 'country', 'device_type', 'category', 'time_spent', 'items_viewed', 'items_purchased', 'total_spent']",10
+Smartphone,"['transaction_id', 'customer_id', 'age', 'gender', 'daily_screen_time', 'social_media_hours', 'gaming_hours', 'work_study_hours', 'sleep_hours', 'notifications', 'app_opens', 'weekend_screen_time', 'stress_level', 'academic_impact', 'addiction_level', 'addicted_label']",16

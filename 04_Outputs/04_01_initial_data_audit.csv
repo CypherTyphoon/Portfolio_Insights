@@ -1,0 +1,4 @@
+Dataset,Rows,Cols,Missing_Values,Memory_MB
+Customer_Purchase,7800,19,3900,5.93
+Online_Shopping,1800,10,0,0.54
+Smartphone_Usage,7500,16,819,2.89

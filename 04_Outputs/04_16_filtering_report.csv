@@ -1,0 +1,4 @@
+Dataset,Original,Filtered,Dropped,Retention_%
+Purchase,7800,7090,710,90.9
+Online,1800,1800,0,100.0
+Smartphone,7500,7500,0,100.0
