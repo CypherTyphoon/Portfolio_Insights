@@ -1,5 +1,9 @@
 🌍 Global AI & Tech Salary Intelligence 2026
-Predictive Analytics & Market Insights with Machine Learning
+Predictive Analytics & Market Insights with Explainable AI
+
+📖 The Data Story: "The Great AI Divergence"
+Im Jahr 2026 ist KI nicht mehr nur ein Trend, sondern der primäre Spaltungskoeffizient des globalen Arbeitsmarktes. Dieses Projekt erzählt die Geschichte der "Großen Divergenz" zwischen klassischem Software-Engineering und KI-Spezialisierung. Wir haben über 10.000 Datenpunkte fusioniert, um die Frage zu beantworten: Ist es der Wohnort, die Erfahrung oder die Nische, die über den Marktwert entscheidet?
+
 📌 Project Overview
 Dieses Projekt analysiert die globalen Gehaltsstrukturen im Tech-Sektor mit einem speziellen Fokus auf den KI-Premium-Faktor. Durch die Fusion von Gehaltsdaten, demografischen Faktoren (Bevölkerungsdichte) und geografischen Informationen liefert die Pipeline nicht nur Vorhersagen, sondern erklärt auch die treibenden Kräfte hinter den Lohnunterschieden im Jahr 2026.
 
@@ -13,28 +17,33 @@ Predictive Modeling: Einsatz von RandomForestRegressor und GradientBoostingRegre
 Explainable AI (XAI): Einsatz von SHAP (Shapley Additive Explanations) und Partial Dependence Plots (PDP) zur Dekonstruktion der Modellentscheidungen.
 
 📈 Key Insights (2026)
-The AI Alpha: KI-Spezialisierungen erzielen im globalen Median einen Aufschlag von X% gegenüber klassischen Full-Stack-Rollen.
+The AI Alpha: KI-Spezialisierungen erzielen im globalen Median einen massiven Aufschlag gegenüber klassischen Full-Stack-Rollen (wir identifizierten Hubs mit einem Faktor von >1.8x).
 
 Urban Pressure: Die Bevölkerungsdichte korreliert nicht linear mit dem Gehalt; wir identifizierten "Hidden Gem Hubs" mit hoher Kaufkraft bei moderater Dichte.
 
 Experience Saturation: SHAP-Analysen zeigen, dass der Grenznutzen von KI-Erfahrung nach ca. 5-7 Jahren abflacht, während die Standortwahl ein dominanter Preistreiber bleibt.
 
 🚀 Interactive Dashboards
-Das Projekt generiert automatisierte HTML-Reports:
+Das Projekt generiert automatisierte HTML-Reports für die strategische Entscheidungsfindung:
 
 03_interactive_ai_premium_map.html: Weltkarte des KI-Gehaltsfaktors.
 
-03_interactive_pdp_analysis.html: Sensitivitätsanalyse der Features.
+03_interactive_tech_salary_map.html: Globaler Benchmark der Baseline-Gehälter.
 
-📋 How to Run
-Installation:
-
-Bash
-pip install pandas numpy scikit-learn plotly shap statsmodels matplotlib seaborn
-Execution:
-Starte das Jupyter Notebook AI_Salary_Analysis_2026.ipynb. Stelle sicher, dass die Quelldaten im /data Ordner liegen.
+03_interactive_pdp_analysis.html: Sensitivitätsanalyse der Features (Was-wäre-wenn-Simulation).
 
 🧠 Model Explainability Example
-Ein zentraler Bestandteil ist der SHAP Force Plot, der individuelle Marktvorhersagen erklärt:
+Ein zentraler Bestandteil ist der SHAP Force Plot, der individuelle Marktvorhersagen auf atomarer Ebene erklärt:
 
 "Ein Gehalt in Land X liegt 20% über dem globalen Schnitt, primär getrieben durch die hohe lokale KI-Nachfrage (Rot), trotz dämpfender Effekte durch die lokale Steuerstruktur (Blau)."
+
+📋 How to Run
+Installation
+Bash
+pip install pandas numpy scikit-learn plotly shap statsmodels matplotlib seaborn
+Execution
+Starte das Jupyter Notebook AI_Salary_Analysis_2026.ipynb.
+
+Stelle sicher, dass die Quelldaten im /data Ordner liegen.
+
+Die Ergebnisse werden im /output Verzeichnis generiert.
